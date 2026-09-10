@@ -72,7 +72,15 @@ export default function Contact() {
           >
             <FaLinkedin size={22} />
           </a>
-         
+          <a
+            href="https://wa.me/93728973718"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-12 h-12 glass rounded-full flex items-center justify-center text-gray-400 hover:text-accent hover:scale-110 transition-all duration-300"
+            aria-label="WhatsApp"
+          >
+            <FaWhatsapp size={22} />
+          </a>
         </motion.div>
       </div>
     </section>
