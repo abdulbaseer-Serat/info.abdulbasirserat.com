@@ -106,10 +106,14 @@ export default function Hero() {
             <FolderGit2 size={18} />
             View Projects
           </button>
-          <button onClick={() => scrollTo('#contact')} className="btn-secondary">
+          <a
+            href="/AbdulBasir_CV_2026_Google.pdf"
+            download="AbdulBaseerSerat-CV.pdf"
+            className="btn-secondary"
+          >
             <Download size={18} />
             Download CV
-          </button>
+          </a>
           <button onClick={() => scrollTo('#contact')} className="btn-secondary">
             <Mail size={18} />
             Contact Me
