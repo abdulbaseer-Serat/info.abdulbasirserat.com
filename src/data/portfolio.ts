@@ -26,6 +26,7 @@ import {
   FaWindows,
   FaGithub,
   FaLinkedin,
+  FaWhatsapp,
 } from 'react-icons/fa';
 import { SiCisco } from 'react-icons/si';
 
@@ -232,6 +233,7 @@ export const languages = ['Pashto', 'English', 'Dari', 'Urdu'];
 export const contactLinks = [
   { label: 'Email', value: 'info.abdulbasir@gmail.com', href: 'mailto:info.abdulbasir@gmail.com', icon: Mail },
   { label: 'Phone', value: '+93 728973718', href: 'tel:+93728973718', icon: Phone },
+  { label: 'WhatsApp', value: '+93 728973718', href: 'https://wa.me/93728973718', icon: FaWhatsapp },
   { label: 'LinkedIn', value: 'linkedin.com/in/abdulbaseerserat', href: 'https://linkedin.com/in/abdulbaseerserat', icon: Linkedin },
   { label: 'GitHub', value: 'github.com/AbdulBaseer-Serat', href: 'https://github.com/AbdulBaseer-Serat', icon: Github },
 ];
