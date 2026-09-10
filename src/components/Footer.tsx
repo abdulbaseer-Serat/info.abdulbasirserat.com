@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowUp } from 'lucide-react';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaWhatsapp } from 'react-icons/fa';
 import { Mail } from 'lucide-react';
 import { personalInfo, navLinks } from '@/data/portfolio';
 
@@ -67,6 +67,15 @@ export default function Footer() {
                 aria-label="Email"
               >
                 <Mail size={18} />
+              </a>
+              <a
+                href="https://wa.me/93728973718"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-10 h-10 glass rounded-full flex items-center justify-center text-gray-400 hover:text-accent hover:scale-110 transition-all duration-300"
+                aria-label="WhatsApp"
+              >
+                <FaWhatsapp size={18} />
               </a>
             </div>
             <p className="text-sm text-gray-400">{personalInfo.email}</p>
