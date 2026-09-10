@@ -107,8 +107,8 @@ export default function Hero() {
             View Projects
           </button>
           <a
-            href="/AbdulBasir_CV_2026_Google.pdf"
-            download="AbdulBaseerSerat-CV.pdf"
+            href="/AbdulBasir CV 2026 Google.pdf"
+            download="AbdulBasir CV 2026 Google.pdf"
             className="btn-secondary"
           >
             <Download size={18} />
