@@ -131,15 +131,6 @@ Apex Institute of Modern Studies, Pakistan
 
 ## ⚡ Technical Skills
 
-### ☁ Cloud Technologies
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078Dor-the-badge&logo=microsoftazure&logoColor=white
-
-![Microsoft365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=mogoColor=white
-
----
-
 ### 🌐 Networking
 
 Cisco Routing & Switching
